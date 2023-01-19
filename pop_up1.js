@@ -1,4 +1,5 @@
-   modal_input = {
+ // first pop_up  
+modal_input = {
         my_h3:"Nicht Träumen: Wünsche wahr machen!", 
         my_img: "https://wunsch.dana.at/fileadmin/user_upload/images/2023/Popups/CTA_Popups_V1.png",
         my_p1: "Sie sind nur wenige Klicks davon enfernt, mit einzigartigen DANA Türen Ihr Wohnen zu verändern.", 
